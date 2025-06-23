@@ -19,7 +19,7 @@ API desenvolvida com **Spring Boot + JPA + MariaDB** para gerenciamento de filme
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/filmlog-api.git
+git clone https://github.com/mateusnoites/filmlog-api.git
 cd filmlog-api
 ```
 
